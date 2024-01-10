@@ -1,4 +1,4 @@
-In this notebook, Data Science Tools and Ecosystem are summarized with the objectives:
+In this notebook, Data Science Tools and Ecosystem are summarized with the following objectives:
 
 1. List popular languages for Data Science
 2. List commonly used libraries for Data Science
